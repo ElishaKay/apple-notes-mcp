@@ -142,3 +142,8 @@ The source code is available on [GitHub](https://github.com/sirmews/apple-notes-
 ## Contributing
 
 Send your ideas and feedback to me on [Bluesky](https://bsky.app/profile/perfectlycromulent.bsky.social) or by opening an issue.
+
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/sirmews-apple-notes-mcp).
+
